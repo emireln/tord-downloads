@@ -1,0 +1,8 @@
+version: 3.20.4
+files:
+  - url: Tord-Setup-3.20.4.exe
+    sha512: KpdC/T6G9fM+BV0mNh2xYtMGIDDjTfkqUHqyFRlbxRoZ8oP+BZoxEdT4ZYR7GIIK1YTvCdvYrYGEPeNpjxOX2w==
+    size: 142199796
+path: Tord-Setup-3.20.4.exe
+sha512: KpdC/T6G9fM+BV0mNh2xYtMGIDDjTfkqUHqyFRlbxRoZ8oP+BZoxEdT4ZYR7GIIK1YTvCdvYrYGEPeNpjxOX2w==
+releaseDate: '2026-04-20T18:35:32.406Z'
