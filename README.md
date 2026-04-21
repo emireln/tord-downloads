@@ -30,5 +30,5 @@ Available builds:
 ---
 
 <div align="center">
-  <sub>🏗️ Built with love by Emir 🟪</sub>
+  <sub>🏗️ Built with 💜 by Emir using the Motrix core 🤖</sub>
 </div>
