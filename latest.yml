@@ -1,8 +1,8 @@
-version: 5.20.4
+version: 6.20.4
 files:
-  - url: Tord-Setup-5.20.4.exe
-    sha512: vyAlxkwEDbe7SK2VfRv9HOvBWs/hybofDdRvWZdgcXGGXBSmgyYQUJ3lOmIviCCyChJTKlG6IQJL+2Q/5Ap1PA==
-    size: 142211064
-path: Tord-Setup-5.20.4.exe
-sha512: vyAlxkwEDbe7SK2VfRv9HOvBWs/hybofDdRvWZdgcXGGXBSmgyYQUJ3lOmIviCCyChJTKlG6IQJL+2Q/5Ap1PA==
-releaseDate: '2026-04-21T01:02:52.126Z'
+  - url: Tord-Setup-6.20.4.exe
+    sha512: tRs//kw9n0eyIq/3mr0HGQ5T8nP/Lhp90zODXWet2vYjZCnHlhSCo0HrHRMEtW2TAiGagjLfQmGsEnT74uRfqw==
+    size: 142211029
+path: Tord-Setup-6.20.4.exe
+sha512: tRs//kw9n0eyIq/3mr0HGQ5T8nP/Lhp90zODXWet2vYjZCnHlhSCo0HrHRMEtW2TAiGagjLfQmGsEnT74uRfqw==
+releaseDate: '2026-04-21T02:18:34.832Z'
