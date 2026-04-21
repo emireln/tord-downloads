@@ -1,0 +1,8 @@
+version: 7.20.4
+files:
+  - url: Tord-Setup-7.20.4.exe
+    sha512: ZOqqqBlNTdXREjmBH5t1Lwq4Rf/8Xe8GqCur5JZaccgRHGSpOJujcDfUhpRQHTJZeXpgYjW06pKO/+T/vUGUQA==
+    size: 142211034
+path: Tord-Setup-7.20.4.exe
+sha512: ZOqqqBlNTdXREjmBH5t1Lwq4Rf/8Xe8GqCur5JZaccgRHGSpOJujcDfUhpRQHTJZeXpgYjW06pKO/+T/vUGUQA==
+releaseDate: '2026-04-21T12:47:36.705Z'
