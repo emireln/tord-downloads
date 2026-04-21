@@ -30,5 +30,5 @@ Available builds:
 ---
 
 <div align="center">
-  <sub>Built with ❤️</sub>
+  <sub>🏗️ Built with love by Emir 🟪</sub>
 </div>
