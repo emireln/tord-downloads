@@ -3,7 +3,7 @@
   
   # Tord Download Manager
   
-  **A full-featured download manager for Windows**
+  **A powerful download manager for Windows** 🚀
   
   [![Latest Release](https://img.shields.io/github/v/release/emireln/tord-downloads?style=flat-square&color=blue)](https://github.com/emireln/tord-downloads/releases/latest)
   [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=flat-square)](LICENSE)
